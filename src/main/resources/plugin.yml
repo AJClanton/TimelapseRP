@@ -1,0 +1,8 @@
+name: TimeLapseRP
+main: com.timelapserp.TimeLapseRP
+version: 1
+description: TimeLapseRP
+authors: [filedotjar, AJClanton, Darkaim63]
+commands:
+  tl:
+    description:
